@@ -2,6 +2,8 @@
 
 Playable mahjong solitaire demo for the Flutter/Flame mahjong job. Web build so it can ship on Vercel for a client walkthrough.
 
+Live: https://mahjong-app-jade.vercel.app
+
 ## What this demo covers
 
 - Reverse-solved boards so every table is beatable
