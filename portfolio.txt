@@ -1,0 +1,4 @@
+Jade Solitaire — mahjong tile-matching demo
+Local: npm run dev (http://localhost:3005)
+Deploy: from this folder run npx vercel
+Pitch: Flutter/Flame-style feature set on web so the client can play in a browser today.
